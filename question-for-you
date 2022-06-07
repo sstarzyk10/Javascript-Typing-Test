@@ -1,0 +1,13 @@
+Hi Gurshan, I found your typing test while I was creating one for my job, and while I'm not using your code specifically, I see that you somehow don't have words
+wrapping to a new line in the middle of them. For example, the word "worldwide" starts on a new line when there is clearly enough space for 3-4 more characters at
+the end of the second line. The code I'm using doesn't do that, so it looks messy and is confusing to type.
+
+I've combed over your javascript and CSS and don't see anything that would be causing that to happen. Is there something in there you purposely added to prevent
+wrapping in the middle of a word, or is that just a happy accident? If it's on purpose, would you mind sharing what you did?
+
+Sorry for the weird method of communication, I didn't know of any other way to contact you since all I had was your GitHub username.
+
+You can email me at steve@sunburst.com.
+
+Thanks,
+Steve
